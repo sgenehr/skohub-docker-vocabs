@@ -4,8 +4,8 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fcolor%2Fb0004",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fcolor%2Fb0004",
   "prefLabel": {
-    "en": "blue",
-    "de": "Blau"
+    "en": "green",
+    "de": "Grün"
   },
   "inScheme": {
     "id": "https://example.org/color/",
