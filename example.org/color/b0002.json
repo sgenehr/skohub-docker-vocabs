@@ -3,10 +3,6 @@
   "type": "Concept",
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fcolor%2Fb0002",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fcolor%2Fb0002",
-  "prefLabel": {
-    "en": "orange",
-    "de": "Orange"
-  },
   "inScheme": {
     "id": "https://example.org/color/",
     "title": {
