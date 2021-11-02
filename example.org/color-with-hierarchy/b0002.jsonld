@@ -14,6 +14,13 @@
         "en": "Light green",
         "de": "Hellgrün"
       }
+    },
+    {
+      "id": "https://example.org/color-with-hierarchy/b0004",
+      "prefLabel": {
+        "en": "Light green",
+        "de": "Hellgrün"
+      }
     }
   ],
   "inScheme": {
